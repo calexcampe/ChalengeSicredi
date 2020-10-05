@@ -1,6 +1,6 @@
 # ChalengeSicredi
 App desenvolvido para efeito de amostra de conhecimento e codificação
-Utilizado Retrofit+Gson para camada de network e serialização 
+/n Utilizado Retrofit+Gson para camada de network e serialização 
 Dagger2 para injeção de dependencias, construtores de Activitys e Viewmodels
 Androix, constainlayouts para layouts
 Coroutines como alternativa a call tradicional do retrofit
