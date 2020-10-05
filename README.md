@@ -1,5 +1,5 @@
 # ChalengeSicredi
-App desenvolvido para efeito de amostra de conhecimento e codificação,
+App desenvolvido em linguagem Kotlin para efeito de amostra de conhecimento e codificação,
 Utilizado Retrofit+Gson para camada de network e serialização ,
 Dagger2 para injeção de dependencias, construtores de Activitys e Viewmodels,
 Androix, constainlayout para layouts,
