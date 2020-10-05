@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChalengeSicredi</string>
+    <string name="loading">Loading</string>
+    <string name="lista_de_pessoas"><![CDATA[<<< Lista de Pessoas >>>]]></string>
+</resources>
